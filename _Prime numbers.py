@@ -1,4 +1,4 @@
-#insérez un nombre et le programme vous renverra tout les nombres premiers avant ce nombre (et le nombre inséré compris)
+#enter a number and the program will return all the prime numbers before that number (including the inserted number)
 a=int(input("Value : "))
 b=1
 while b!=a:
